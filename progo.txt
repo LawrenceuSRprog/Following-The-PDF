@@ -1,0 +1,2 @@
+Isn't this great - I am writing a new program
+and this is the start of line 2.
